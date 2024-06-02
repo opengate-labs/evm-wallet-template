@@ -5,7 +5,7 @@ Boilerplate is best fits in Telegram Mini App environment where you can't suppor
 
 ### Tech Stack
 
-- React, Viem, shadcn-ui, TMA(soon...)
+- `React`, `Viem`, `shadcn-ui`, `TMA(soon...)`
 
 ### Dev environment
 
